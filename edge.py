@@ -19,3 +19,5 @@ plt.subplot(235), plt.imshow(edges4, cmap='gray'), plt.title('Edge Image')
 plt.subplot(236), plt.imshow(edges5, cmap='gray'), plt.title('Edge Image')
 
 plt.show()
+
+#作業2
